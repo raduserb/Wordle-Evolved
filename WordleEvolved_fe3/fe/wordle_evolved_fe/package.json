@@ -1,0 +1,64 @@
+{
+  "name": "wordle_evolved_fe",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/joy": "^5.0.0-beta.36",
+    "@mui/material": "^5.15.15",
+    "@mui/x-charts": "^7.5.1",
+    "@mui/x-data-grid": "^7.5.0",
+    "@mui/x-data-grid-generator": "^7.5.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.6.8",
+    "buffer": "^6.0.3",
+    "child_process": "^1.0.2",
+    "country-flag-icons": "^1.5.11",
+    "flowbite-react": "^0.9.0",
+    "framework7-react": "^8.3.3",
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^4.0.0",
+    "pyodide": "^0.25.1",
+    "react": "^18.2.0",
+    "react-bootstrap-validation": "^0.1.11",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.2.1",
+    "react-jwt": "^1.2.1",
+    "react-modal": "^3.16.1",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "5.0.1",
+    "react-spinners": "^0.13.8",
+    "reactjs-popup": "^2.0.6",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.5",
+    "styled-components": "^6.1.8",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

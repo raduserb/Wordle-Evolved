@@ -1,0 +1,30 @@
+.modal {
+    background-color: 115b4c;
+    color: white;
+    
+    /* Add more styles as needed */
+  }
+  
+  .prompt {
+    color: #B6EDC8;
+    margin-bottom: 0px;
+  }
+
+  button {
+    background-color: #B6EDC8;
+    color: #115b4c;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #115b4c;
+    color: #B6EDC8;
+  }
+  
+  
+  
+
+  
+  
